@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-  <img width="300" src="https://media.tenor.com/QHp-YQCKnHMAAAAC/cat-keyboard.gif" alt="andreyburov" style="display: block; margin-left: auto; margin-right: auto;"/>
+  <img width="300" src="https://media.tenor.com/QHp-YQCKnHMAAAAC/cat-keyboard.gif" alt="andreyburov" style="margin: auto"/>
 
 
 - 🔭 I’m currently working on [TTWcome](https://ttwcome.ru/)
