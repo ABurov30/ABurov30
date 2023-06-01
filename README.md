@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrey Burov</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<div style="text-align: center;">
-  <img width="300" src="https://media.tenor.com/QHp-YQCKnHMAAAAC/cat-keyboard.gif" alt="andreyburov" style="display: block; margin: 0 auto;" />
-</div>
+
+  <img width="300" src="https://media.tenor.com/QHp-YQCKnHMAAAAC/cat-keyboard.gif" alt="andreyburov" style="display: block; margin-left: auto; margin-right: auto;"/>
+
 
 - 🔭 I’m currently working on [TTWcome](https://ttwcome.ru/)
 
