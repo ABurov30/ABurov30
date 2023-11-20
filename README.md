@@ -5,7 +5,7 @@
   <img width="300" src="https://media.tenor.com/QHp-YQCKnHMAAAAC/cat-keyboard.gif" alt="andreyburov" />
 </p>
 
-- 🔭 Currently working on [TTWcome](https://ttwcome.ru/)
+- 🔭 Currently working on [KORUS Consulting](https://korusconsulting.com/)
 
 - 🌱 Learning **React Native**
 
