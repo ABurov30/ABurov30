@@ -180,7 +180,6 @@ Previously, I worked on warehouse management systems and railway logistics platf
 ## 🌍 Languages
 
 - English — Full Professional
-- Russian — Native
 
 ---
 
